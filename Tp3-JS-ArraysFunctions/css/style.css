@@ -1,0 +1,6 @@
+table,
+td,
+th {
+    border: 1px dotted rgb(13, 113, 146);
+    padding: 3px;
+}
